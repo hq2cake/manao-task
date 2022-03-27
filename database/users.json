@@ -1,0 +1,18 @@
+[
+    {
+        "login": "hq2cake",
+        "password": "e0d35716118cf3bfdad4b39e4aa3449a",
+        "email": "vladik@mail.ru",
+        "name": "gm",
+        "salt": "YXbTSb`_X^",
+        "id": 1
+    },
+    {
+        "login": "vladosik",
+        "password": "10a61964469f6411e9176e0757db1414",
+        "email": "test@mail.ru",
+        "name": "hq",
+        "salt": "acWcbWXSdS",
+        "id": 2
+    }
+]
